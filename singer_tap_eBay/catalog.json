@@ -1,0 +1,83 @@
+{
+    "streams": [
+      {
+        "tap_stream_id": "payouts",
+        "stream": "payouts",
+        "schema": {
+          "type": "object",
+          "properties": {
+            "payoutId": {
+              "type": "string"
+            },
+            "payoutStatus": {
+              "type": "string"
+            },
+            "payoutStatusDescription": {
+              "type": "string"
+            },
+            "amount": {
+              "type": "object",
+              "properties": {
+                "value": {
+                  "type": "float"
+                },
+                "currency": {
+                  "type": "string"
+                }
+              }
+            },
+            "payoutDate": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "lastAttemptedPayoutDate": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "transactionCount": {
+              "type": "integer"
+            },
+            "payoutInstrument": {
+              "type": "object",
+              "properties": {
+                "instrumentType": {
+                  "type": "string"
+                },
+                "nickname": {
+                  "type": "string"
+                },
+                "accountLastFourDigits": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "metadata": [
+          {
+            "breadcrumb": [],
+            "metadata": {
+              "selected": true,
+              "inclusion": "available"
+            }
+          },
+          {
+            "breadcrumb": ["properties", "amount"],
+            "metadata": {
+              "selected": true,
+              "inclusion": "available"
+            }
+          },
+          {
+            "breadcrumb": ["properties", "payoutInstrument"],
+            "metadata": {
+              "selected": true,
+              "inclusion": "available"
+            }
+          }
+        ],
+        "key_properties": ["payoutId"]
+      }
+    ]
+  }
+  

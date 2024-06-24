@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "sigertapebay",
+    "private_key_id": "bbd81e61dbb5fa01be8988f6134a0bf0ab375fd1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE+InVikAWhV4u\naoXYebpMShqJDD/1BnFWLTebgUINl57RHtaLKgMljsF1rAn3LYIRuUk3NRF+npen\nTqLo7ctiazgC2wKS1h5yCqCWEf9lU3IiS1AmmGT2GISjuuXyOnUkhi12pVan+vKr\nhg0zn8XK5Ps51TN+FO508TX4es5MHtueGnmNj62M3z+nkbC2Y0gAe+K1DA8b3b+k\nVHoQOvipXJ9z6XIO4Wa+OtTnEEzpU1n/LHmS855k7j6xI2pdUJtWZyaXchl5WvQj\nG4/zQYGpuM0YhMXnVzInBXnAbUxYQECr9a2FHrWT0AVA1KTJnfStXOx6TxznRfkB\n2dU6OB5vAgMBAAECggEAFgPle/2YziuX7D4xuZFZdj9uGdVJrLxMnKIvLe1TkatZ\nr+vvdNx8P41mKB3Te1IV0J9SBJ6k1u8o6iVK5hf1/IkZWJBcCEdwXbS8YCmgzxV1\nk0mxqq6r0inJYXd5TgqknzF0EWfHeLz+tJcmEJgSBmxze/JNcBEs2ds/+gbX2gAC\nX8zln9kV/DQMt0eNFDbzI8YspdAJCjK+DhxaTQrfIBUiezsGDKDgnEeGkL+rdLOH\nO31ck2xBgkHu7oiGwaqFEIydj6if1TF1DbToy0zasl4Fzv8zDUYIJac7c26ceE+3\nlYrZeIQWvGZysKCjmfJRLiO2x4gTT5glfnTdEQr9AQKBgQD9rzbxG97nXItlMXiw\nLWiIlgTi1/iYzwgzClHYxMLmhiFGTThz2yOj8zhTvkoZSY7945xiTkvnzO0pPa6C\nhbB/m64al9kH9wyLYZJOByLcLyYFBhQ6vPPR7Y/PQ7MQCq6IVRLr+FG1dzToRqiF\nan9eoOBrXOyocOelCK2iZE5zgQKBgQDGxM0LymaVbNKdkam2arZ69fgwweWdS3qR\nkch1+rsznsRK++5sVoSTiWf3YamkLmTG8g7QHrTkLxt/m/JBwkMVgY7KNxcTnMCc\n/60q2UtqejvSoDoFkyB4GwGHBqIf0or6hftKJvC+h9t8WZIzM7dF5Swx4JQoWvzR\nWTwDGUrJ7wKBgQDI2t6kXg3JnzNbBqVo0DsQ0b7CoH7a9iimyMfu2jL6dD6KO/+z\nc1EvsRXq8CIZDW2ixYD/MMDWoiEwYv71psYM8wURVyLmNIuBG9rL3siSDt6KYbrI\nmuxtTStszkxLKjnwBXO601xWUjDYq4EoSR7ZnISzXNqfru0pdMqNZd/bgQKBgFQq\nq4TNnOizHvAX6RxUTZb9pq3GvRsBBhKz/4VtuW1fUlFKIqh/bj4nFf4bvcDG4GeZ\nwgoApqplBCjh+RA9WTi3Fqar8zqbyrfwT/xv7M5WmhRTQp5vsXUKQnhRp77/4Ve5\n+jFpEdIsJxWdvBmwUW/oXfF03mfEN3/SYGYThKbDAoGAC3i8VIMPYG0UgAVzpXBg\nljb9rwQV4f3NnK4zJjJpsDv+fYL3DlPp1G8XpdHECO93jSF85AdHg5UihN5Q+1N3\n9ANsYk+XeE/g0drKSHEjmHMl4sif+HB7+jB9zES+awXZwIPVHbJ1dqkX4uGXW7Hx\ndzOyc/GHdisINlE104FIfnY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "deep-662@sigertapebay.iam.gserviceaccount.com",
+    "client_id": "107781357119314333788",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deep-662%40sigertapebay.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

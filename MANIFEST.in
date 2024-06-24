@@ -1,0 +1,2 @@
+include LICENSE
+include singer_tap_eBay/schemas/*.json
