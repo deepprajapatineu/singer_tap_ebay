@@ -1,0 +1,5 @@
+{
+    "bearer_token": "<OAuth Token>",
+    "google_creds_path": "<Google Creds Path>",
+    "spreadsheet_id": "<Spreadsheet Id>"
+}
